@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Calculadora de interes compuesto",
+    "descripcion": "es una calculadora que te permite ver elinteres compuesto de una inversion con sus variantes tiempo y monto",
+    "imagen": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=60",
+    "tecnologias": ["HTML5", "css", "javascript"]
+  },
+  {
+    "id": 2,
+    "nombre": "E-Commerce carro de compras",
+    "descripcion": "Aplicación de página única interactiva con catálogo de productos dinámico, filtros avanzados y carrito de compras funcional.",
+    "imagen": "https://www.megashopok.com.ar/images/uploads/ecommerce/img3461.webp",
+    "tecnologias": ["React.js", "Bootstrap 5", "JavaScript"]
+  }
+]
