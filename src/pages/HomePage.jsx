@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import SkillBadge from '../components/SkillBadge';
 
 const HomePage = () => {
-  // Datos requeridos en el Paso 6
+
   const infoPersonal = {
     nombre: "Tomas Cruz",
     titulo: " Desarrollador Frontend",
